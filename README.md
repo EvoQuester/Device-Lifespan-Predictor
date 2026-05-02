@@ -24,7 +24,7 @@ This project was built as a joint effort to simulate a real-world cross-function
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Device-Lifespan-Predictor.git](https://github.com/YOUR_USERNAME/Device-Lifespan-Predictor.git)
+   git clone [https://github.com/EvoQuester/Device-Lifespan-Predictor.git](https://github.com/EvoQuester/Device-Lifespan-Predictor.git)
    cd Device-Lifespan-Predictor
 
 2. **Set Up a Virtual Environment:**
