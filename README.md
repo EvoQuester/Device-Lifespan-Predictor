@@ -56,5 +56,4 @@ This project was built as a joint effort to simulate a real-world cross-function
 5. **Run the Application:**
    Launch the dashboard with the following command:
    ```bash
-   ```bash
    streamlit run app.py   
